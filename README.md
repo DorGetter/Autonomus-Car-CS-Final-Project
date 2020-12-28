@@ -1,6 +1,6 @@
-# FinalProject
+# Aida
 
-## autonomus car system
+## Artificial Intelligent Driving Agent 
 
 ### participants: 
 Dor Getter <br />
