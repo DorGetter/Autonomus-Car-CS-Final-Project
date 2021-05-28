@@ -26,8 +26,9 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 <br />
 Since better performace was needed, we switched the Nvidia's Jetson Nano, a powerfull embedded system. <br />
+![jetson](https://user-images.githubusercontent.com/57401083/119977462-c088a380-bfb8-11eb-9420-99cf9a4fc10c.gif)
 
-
+<br />
 
 ### Conclustions
 The question that we had in mind doing this project is if it is possible to develop an cross-platform application that would be able the drive cars
@@ -37,10 +38,8 @@ the answer is - it depends.
 While there are some light softwares that enables basic autonomous cababilities, it is not reliable and cannot be used in the real world.
 
 
+
+
 <img width="477" alt="lanes" src="https://user-images.githubusercontent.com/57047863/103106760-e2b07b00-4640-11eb-8f29-f249205433ab.png">
-
-<img width="444" alt="car" src="https://user-images.githubusercontent.com/57047863/103106786-155a7380-4641-11eb-9059-243256255823.png">
-
-<img width="911" alt="lane_detection_2" src="https://user-images.githubusercontent.com/57047863/110993577-25e8d300-8380-11eb-8894-6e4a3bae2280.png">
 
 <img width="795" alt="yolo_classifier_2" src="https://user-images.githubusercontent.com/57047863/110993746-5f214300-8380-11eb-84bf-e2fc5a0ed75b.png">
