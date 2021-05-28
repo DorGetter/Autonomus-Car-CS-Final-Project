@@ -1,0 +1,79 @@
+{
+  "SeeDocsAt": "https://github.com/Microsoft/AirSim/blob/master/docs/settings_json.md",
+  "SettingsVersion": 1.2,
+
+  "SimMode": "",
+
+  "Vehicles": {
+    "Car1": {
+      "VehicleType": "PhysXCar",
+      "AutoCreate": true,
+      "Sensors": {
+        "Distance": {
+          "SensorType": 5,
+          "Enabled": true
+        },
+        "Left-Lane_Assist": {
+          "SensorType": 6,
+          "Enabled": true,
+          "Range" :  10000,
+          "NumberOfChannels": 16,
+          "RotationsPerSecond": 1000,
+          "PointsPerSecond": 10000,
+          "X": 0,
+          "Y": 0,
+          "Z": -1,
+          "Roll": 0,
+          "Pitch": 0,
+          "Yaw": 0,
+          "VerticalFOVUpper": 11,
+          "VerticalFOVLower": 9,
+          "HorizontalFOVStart": -95,
+          "HorizontalFOVEnd": -85,
+          "DrawDebugPoints": true,
+          "DataFrame": "SensorLocalFrame"
+        },
+        "Right-Lane_Assist": {
+          "SensorType": 6,
+          "Enabled": true,
+          "Range": 10000,
+          "NumberOfChannels": 16,
+          "RotationsPerSecond": 1000,
+          "PointsPerSecond": 10000,
+          "X": 0,
+          "Y": 0,
+          "Z": -1,
+          "Roll": 0,
+          "Pitch": 0,
+          "Yaw": 0,
+          "VerticalFOVUpper": 11,
+          "VerticalFOVLower": 9,
+          "HorizontalFOVStart": 85,
+          "HorizontalFOVEnd": 95,
+          "DrawDebugPoints": true,
+          "DataFrame": "SensorLocalFrame"
+        },
+        "Emergancy-Brake": {
+          "SensorType": 6,
+          "Enabled": true,
+          "Range": 100,
+          "NumberOfChannels": 16,
+          "RotationsPerSecond": 100,
+          "PointsPerSecond": 10000,
+          "X": 0,
+          "Y": 0,
+          "Z": -1,
+          "Roll": 0,
+          "Pitch": 0,
+          "Yaw": 0,
+          "VerticalFOVUpper": 3,
+          "VerticalFOVLower": 1,
+          "HorizontalFOVStart": -2,
+          "HorizontalFOVEnd": 2,
+          "DrawDebugPoints": true,
+          "DataFrame": "SensorLocalFrame"
+        }
+      }
+    }
+  }
+}
