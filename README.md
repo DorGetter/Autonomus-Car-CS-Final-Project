@@ -15,6 +15,7 @@ The AirSim simulator can Simulate various sensors, cameras and scenarios. <br />
 We implemented our own "Auto-Pilot" system - Lane Assist and Auto Emergancy Brake based on data we recieved from sensors such as Lidar. <br />
 <br />
 ![Emergancybrake](https://user-images.githubusercontent.com/57401083/119956114-08033580-bfa1-11eb-840a-dd5df808e5ee.gif)
+<br />
 After understanding the concepts of the autononous driving on a simulator, we moved on to the real world <br />
 Our next step was implementing those systems on an mobile android platform, we sucsessfully managed to detect lane and objects. <br />
 ![WhatsApp Image 2021-05-28 at 10 45 08](https://user-images.githubusercontent.com/57401083/119958917-c58f2800-bfa3-11eb-88db-2244a403dde7.jpeg)
@@ -26,7 +27,7 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 <br />
 Since better performace was needed, we switched the Nvidia's Jetson Nano, a powerfull embedded system. <br />
-![jetson](https://user-images.githubusercontent.com/57401083/119977462-c088a380-bfb8-11eb-9420-99cf9a4fc10c.gif)
+![jetson](https://user-images.githubusercontent.com/57401083/119977773-1b21ff80-bfb9-11eb-8ab7-baa26d2b1310.gif)
 
 <br />
 
