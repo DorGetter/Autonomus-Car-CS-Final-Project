@@ -40,7 +40,9 @@ Since better performace was needed, we switched the Nvidia's Jetson Nano, a powe
 ![x](https://user-images.githubusercontent.com/57047863/120109729-641db380-c173-11eb-8e06-988372fbc1aa.jpeg)
 
 <img width="749" alt="y" src="https://user-images.githubusercontent.com/57047863/120109769-8b748080-c173-11eb-9004-8af2cc07e8f1.png">
-![Hnet-image](https://user-images.githubusercontent.com/57187365/120111348-430c9100-c17a-11eb-85a6-deb2a40397e8.gif)
+
+
+![Hnet-image (1)](https://user-images.githubusercontent.com/57187365/120111570-160cae00-c17b-11eb-9294-d9c78228fca1.gif)
 
 
 ### Conclustions
