@@ -31,6 +31,11 @@ Since better performace was needed, we switched the Nvidia's Jetson Nano, a powe
 
 <br />
 
+![x](https://user-images.githubusercontent.com/57047863/120109729-641db380-c173-11eb-8e06-988372fbc1aa.jpeg)
+
+<img width="749" alt="y" src="https://user-images.githubusercontent.com/57047863/120109769-8b748080-c173-11eb-9004-8af2cc07e8f1.png">
+
+
 ### Conclustions
 The question that we had in mind doing this project is if it is possible to develop an cross-platform application that would be able the drive cars
 autonomously, a piece of sftware that can be installed on a microprocessor such as raspberrt pi, mobile android device and a desktop PC.<br />
