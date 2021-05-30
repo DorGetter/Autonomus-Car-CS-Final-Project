@@ -37,12 +37,12 @@ Since better performace was needed, we switched the Nvidia's Jetson Nano, a powe
 
 ![WhatsApp Image 2021-05-30 at 18 31 05 (1)](https://user-images.githubusercontent.com/57047863/120110593-c1673400-c176-11eb-923e-b33c32021dea.jpeg)
 
-![x](https://user-images.githubusercontent.com/57047863/120109729-641db380-c173-11eb-8e06-988372fbc1aa.jpeg)
 
 <img width="749" alt="y" src="https://user-images.githubusercontent.com/57047863/120109769-8b748080-c173-11eb-9004-8af2cc07e8f1.png">
 
 
 ![Hnet-image (1)](https://user-images.githubusercontent.com/57187365/120111570-160cae00-c17b-11eb-9294-d9c78228fca1.gif)
+![Hnet-image](https://user-images.githubusercontent.com/57187365/120111636-61bf5780-c17b-11eb-85e9-2967cf693b75.gif)
 
 
 ### Conclustions
