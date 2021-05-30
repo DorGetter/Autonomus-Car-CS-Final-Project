@@ -27,7 +27,6 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 <br />
 Since better performace was needed, we switched the Nvidia's Jetson Nano, a powerfull embedded system. <br />
-![jetson](https://user-images.githubusercontent.com/57401083/119977773-1b21ff80-bfb9-11eb-8ab7-baa26d2b1310.gif)
 
 <br />
 
