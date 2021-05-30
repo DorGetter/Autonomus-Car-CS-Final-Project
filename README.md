@@ -41,6 +41,6 @@ While there are some light softwares that enables basic autonomous cababilities,
 
 
 
-<img width="477" alt="lanes" src="https://user-images.githubusercontent.com/57047863/103106760-e2b07b00-4640-11eb-8f29-f249205433ab.png">
+
 
 <img width="795" alt="yolo_classifier_2" src="https://user-images.githubusercontent.com/57047863/110993746-5f214300-8380-11eb-84bf-e2fc5a0ed75b.png">
