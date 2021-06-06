@@ -10,9 +10,16 @@ Oren Lacker <br />
 
 ### Overview 
 In this project we examined and exprinenced various automonous driving systems on various platforms. <br />
-At first, we worked with Microsoft's AirSim, An realistic open world driving simulator. <br />
+At first, we worked with Microsoft's AirSim, An realistic open world driving simulator.
+link to the simulator github - https://github.com/microsoft/AirSim.
+link to airsim site -  https://microsoft.github.io/AirSim/. 
+
+<br />
 The AirSim simulator can Simulate various sensors, cameras and scenarios. <br />
-We implemented our own "Auto-Pilot" system - Lane Assist and Auto Emergancy Brake based on data we recieved from sensors such as Lidar. <br />
+We implemented our own "Auto-Pilot" system - Lane Assist and Auto Emergancy Brake based on data we recieved from sensors such as Lidar, front camera and more. 
+later on we tested our algorithm on a custome made maze that we built and the objective was that the car will complete the maze by make turning desicions and avoid obstacales.
+on our attempts we also write an akgorithm for self parking feature. 
+<br />
 <br />
 ![Emergancybrake](https://user-images.githubusercontent.com/57401083/119956114-08033580-bfa1-11eb-840a-dd5df808e5ee.gif)
 <br />
