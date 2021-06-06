@@ -18,10 +18,13 @@ link to airsim site -  https://microsoft.github.io/AirSim/.
 The AirSim simulator can Simulate various sensors, cameras and scenarios. <br />
 We implemented our own "Auto-Pilot" system - Lane Assist and Auto Emergancy Brake based on data we recieved from sensors such as Lidar, front camera and more. 
 later on we tested our algorithm on a custome made maze that we built and the objective was that the car will complete the maze by make turning desicions and avoid obstacales.
-on our attempts we also write an akgorithm for self parking feature. 
+on our attempts we also write an akgorithm for self parking feature. <br />
 <br />
-<br />
+
+
 ![Emergancybrake](https://user-images.githubusercontent.com/57401083/119956114-08033580-bfa1-11eb-840a-dd5df808e5ee.gif)
+
+
 <br />
 After understanding the concepts of the autononous driving on a simulator, we moved on to the real world <br />
 Our next step was implementing those systems on an mobile android platform, we sucsessfully managed to detect lane and objects. <br />
