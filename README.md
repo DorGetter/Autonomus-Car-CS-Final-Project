@@ -49,6 +49,8 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 ![image](https://user-images.githubusercontent.com/57401083/120466645-96135d80-c39f-11eb-843f-d1d7b4673d63.png)
 
+![RP4_Lane](https://user-images.githubusercontent.com/57187365/120918184-c0289080-c6bb-11eb-8a48-662db10c40e2.jpeg)
+
 
 <br />
 
