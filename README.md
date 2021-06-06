@@ -47,7 +47,7 @@ We continued our journey in the embedded world, we tried to implement those syst
 unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br />
 
 
-![WhatsApp Image 2021-05-28 at 10 49 16](https://user-images.githubusercontent.com/57401083/119959030-e5265080-bfa3-11eb-8633-c27b453e1b08.jpeg)
+![image](https://user-images.githubusercontent.com/57401083/120466645-96135d80-c39f-11eb-843f-d1d7b4673d63.png)
 
 
 <br />
