@@ -83,5 +83,3 @@ While there are some light softwares that enables basic autonomous cababilities,
 
 
 
-
-<img width="795" alt="yolo_classifier_2" src="https://user-images.githubusercontent.com/57047863/110993746-5f214300-8380-11eb-84bf-e2fc5a0ed75b.png">
