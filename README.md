@@ -28,7 +28,11 @@ on our attempts we also write an akgorithm for self parking feature. <br />
 <br />
 After understanding the concepts of the autononous driving on a simulator, we moved on to the real world <br />
 Our next step was implementing those systems on an mobile android platform, we sucsessfully managed to detect lane and objects. <br />
+
+
 ![WhatsApp Image 2021-05-28 at 10 45 08](https://user-images.githubusercontent.com/57401083/119958917-c58f2800-bfa3-11eb-88db-2244a403dde7.jpeg)
+
+
 <br />
 We continued our journey in the embedded world, we tried to implement those system on a RP4 platform , than test it on a RC car and a track, 
 unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br />
