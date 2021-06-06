@@ -15,6 +15,9 @@ link to the simulator github - https://github.com/microsoft/AirSim.
 link to airsim site -  https://microsoft.github.io/AirSim/. 
 
 <br />
+
+### AIR SIM - real world simulation.
+
 The AirSim simulator can Simulate various sensors, cameras and scenarios. <br />
 We implemented our own "Auto-Pilot" system - Lane Assist and Auto Emergancy Brake based on data we recieved from sensors such as Lidar, front camera and more. 
 later on we tested our algorithm on a custome made maze that we built and the objective was that the car will complete the maze by make turning desicions and avoid obstacales.
@@ -26,6 +29,9 @@ on our attempts we also write an akgorithm for self parking feature. <br />
 
 
 <br />
+
+### Android application
+
 After understanding the concepts of the autononous driving on a simulator, we moved on to the real world <br />
 Our next step was implementing those systems on an mobile android platform, we sucsessfully managed to detect lane and objects. <br />
 
@@ -34,6 +40,9 @@ Our next step was implementing those systems on an mobile android platform, we s
 
 
 <br />
+
+### Raspberry Pie 4 
+
 We continued our journey in the embedded world, we tried to implement those system on a RP4 platform , than test it on a RC car and a track, 
 unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br />
 
@@ -42,6 +51,9 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 
 <br />
+
+### Nvidia Jetson Racer 
+
 Since better performace was needed, we switched the Nvidia's Jetson Nano, a powerfull embedded system. <br />
 
 <br />
