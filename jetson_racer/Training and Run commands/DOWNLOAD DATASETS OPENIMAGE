@@ -1,0 +1,27 @@
+1) move to folder:
+---------------
+
+cd ~/jetson-inference/python/training/detection/ssd
+
+2) downloading data images: 
+------------------------
+python3 open_images_downloader.py --max-images=5000 --class-names "Car,Ambulance,Truck,Bicycle,Person,Traffic light,Traffic sign" --data=data/<'fill in- name'>
+
+3) training net: 
+   -------------
+
+
+ python3 train_ssd.py --data=data/<'fill in- name'> --model-dir=models/CarDet --batch-size=2 --workers=1 --epochs=20
+
+
+
+convert to unnx
+_______________
+4) python3 onnx_export.py --model-dir=models/testc
+
+
+
+running the model (camera)
+---------------------------
+5)  detectnet --model=models/testc/ssd-mobilenet.onnx --labels=models/testc/labels.txt --input-blob=input_0 --output-cvg=scores --output-bbox=boxes "csi://0"
+
