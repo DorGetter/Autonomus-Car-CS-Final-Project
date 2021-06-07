@@ -1,4 +1,4 @@
-# Final Project
+<br /># Final Project
 
 ## Autonomous Driving System On Varoius Platforms 
 
@@ -63,8 +63,9 @@ Since better performace was needed, we switched the Nvidia's Jetson Nano, a powe
 1. To start working with jetson-nano, first complete the "Software Setup" (download the operation system image and complete the instructions). <br />
    https://github.com/waveshare/jetracer/blob/master/docs/software_setup.md <br />
 2. To start working with the jetracer car it is necessary to setup the "jetracer" lib (enable python interface to manage the car controlers). <br />
-   https://github.com/waveshare/jetracer
-3. jetson-inference   
+   https://github.com/waveshare/jetracer <br /> 
+3. Jetson-Inference instructional guide (to enable deep-learning include object detection). <br />
+   https://github.com/dusty-nv/jetson-inference/
 
 <br />
 
