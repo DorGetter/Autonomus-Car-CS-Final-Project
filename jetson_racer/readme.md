@@ -1,6 +1,6 @@
 # How To Run: 
 
-###After the setup stage is complete run the MainDrive.py by the following command: <br />
+### After the setup stage is complete run the MainDrive.py by the following command: <br />
 1. Navigate to the MainDrive.py file location on the jetson racer. <br /> 
 2. $python3 MainDrive.py <br />
 
@@ -9,3 +9,21 @@ this code is run on the two cameras:
 2. USB webcam which connect to the available USB port, which will use to detect the lanes and the track marks. <br /> 
 make sure you spacified the right cameras name in the code. <br /> 
 The CSI camera is open by the nvidia api, while the USB webcam is used by the OpenCV library ( as cv2.VideoCapture(1) ) . <br /> 
+
+
+
+# Directories: 
+
+### JoyStick directory: 
+
+This directory contains the code for operating the car by using the JoyStick remote controller. 
+
+### Detection:
+
+This directory comtains the mobileNet SSD models used to detecting padestrains and traffic signs. 
+
+### Training and Run commands: 
+
+This directory contains installation and power commands to the jetson racer. 
+
+
