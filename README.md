@@ -10,9 +10,11 @@ Oren Lacker <br />
 
 ### Overview 
 In this project we examined and exprinenced various automonous driving systems on various platforms. <br />
-At first, we worked with Microsoft's AirSim, An realistic open world driving simulator.
-link to the simulator github - https://github.com/microsoft/AirSim.
-link to airsim site -  https://microsoft.github.io/AirSim/. 
+At first, we worked with Microsoft's AirSim, An realistic open world driving simulator. <br />
+
+#### Setup
+1. link to the simulator github - https://github.com/microsoft/AirSim.
+2. link to airsim site -  https://microsoft.github.io/AirSim/. 
 
 <br />
 
@@ -35,6 +37,14 @@ on our attempts we also write an akgorithm for self parking feature. <br />
 After understanding the concepts of the autononous driving on a simulator, we moved on to the real world <br />
 Our next step was implementing those systems on an mobile android platform, we sucsessfully managed to detect lane and objects. <br />
 
+#### Setup
+1. android studio installation  <br />
+https://developer.android.com/studio/install  <br />
+2.  opencv sdk library for android studio <br />
+https://medium.com/android-news/a-beginners-guide-to-setting-up-opencv-android-library-on-android-studio-19794e220f3c
+
+
+
 
 ![WhatsApp Image 2021-05-28 at 10 45 08](https://user-images.githubusercontent.com/57401083/119958917-c58f2800-bfa3-11eb-88db-2244a403dde7.jpeg)
 
@@ -45,6 +55,19 @@ Our next step was implementing those systems on an mobile android platform, we s
 
 We continued our journey in the embedded world, we tried to implement those system on a RP4 platform , than test it on a RC car and a track, 
 unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br />
+
+#### Setup
+
+1. To start working with jetson-nano, first download the Raspian OS. <br />
+   https://www.raspberrypi.org/documentation/installation/installing-images/ <br />
+2. Download OpenCV for RP4. <br />
+   https://learnopencv.com/install-opencv-4-on-raspberry-pi/ <br /> 
+3. Install Python 3.7 or higher version. <br />
+   https://projects.raspberrypi.org/en/projects/generic-python-install-python3 <br />
+4. Install Numpy, Scipy and matplotlib <br />
+   https://www.programmersought.com/article/30944423335/ <br />
+
+<br />
 
 
 ![image](https://user-images.githubusercontent.com/57401083/120466645-96135d80-c39f-11eb-843f-d1d7b4673d63.png)
