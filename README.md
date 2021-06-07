@@ -58,6 +58,14 @@ unfortunetly the RP4 was lacking the hardware to drive the car in realtime. <br 
 
 Since better performace was needed, we switched the Nvidia's Jetson Nano, a powerfull embedded system. <br />
 
+#### Setup
+
+1. To start working with jetson-nano, first complete the "Software Setup" (download the operation system image and complete the instructions). <br />
+   https://github.com/waveshare/jetracer/blob/master/docs/software_setup.md <br />
+2. To start working with the jetracer car it is necessary to setup the "jetracer" lib (enable python interface to manage the car controlers). <br />
+   https://github.com/waveshare/jetracer
+3. jetson-inference   
+
 <br />
 
 ![WhatsApp Image 2021-05-30 at 18 31 42](https://user-images.githubusercontent.com/57047863/120110552-941a8600-c176-11eb-8cf9-af498cf963a2.jpeg)
