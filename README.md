@@ -14,7 +14,7 @@ At first, we worked with Microsoft's AirSim, An realistic open world driving sim
 #### The project life cycle: 
 
 ##### Air Sim simulator: 
-We began our project by first dip our feets in the world of autonomous driving using the AIR-SIM simulator ( link to the software below ), 
+We began our project by first dip our toes in the world of autonomous driving using the AIR-SIM simulator ( link to the software below ), 
 in which we explore how to control the car in the simulator by using sensors such as Lidars <br /> ( link to interesting articale about lidars and autonomus-car https://www.automotiveworld.com/articles/lidars-for-self-driving-vehicles-a-technological-arms-race/) and cameras. We implemened the basic ideas such as self parking, maze oriantation, obstacle avoidanse and decision making in cross roads and creating an simulation envarioment to put to the test our code and algorithms.  
 
 ###### Conclusions 
