@@ -2,6 +2,10 @@
 
 ## Autonomous Driving System On Varoius Platforms 
 
+
+![WhatsApp Image 2021-05-30 at 18 31 05](https://user-images.githubusercontent.com/57047863/120110584-b3191800-c176-11eb-8047-42890adbcf83.jpeg)
+
+
 ### participants: 
 Dor Getter <br />
 Eldar Takach <br />
@@ -150,7 +154,6 @@ Since better performace was needed, we switched the Nvidia's Jetson Nano, a powe
 
 ![WhatsApp Image 2021-05-30 at 18 31 42](https://user-images.githubusercontent.com/57047863/120110552-941a8600-c176-11eb-8cf9-af498cf963a2.jpeg)
 
-![WhatsApp Image 2021-05-30 at 18 31 05](https://user-images.githubusercontent.com/57047863/120110584-b3191800-c176-11eb-8047-42890adbcf83.jpeg)
 
 ![WhatsApp Image 2021-05-30 at 18 31 05 (1)](https://user-images.githubusercontent.com/57047863/120110593-c1673400-c176-11eb-923e-b33c32021dea.jpeg)
 
