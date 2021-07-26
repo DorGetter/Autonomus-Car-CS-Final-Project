@@ -175,8 +175,9 @@ While there are some light softwares that enables basic autonomous cababilities,
 
 
 
-####### TODO next: 
+##### TODO next: 
 1. implement a decision making  based on padestrain detection and obstacles and to be able to correspond to this hazards. 
 2. an addaptive cruise contol. 
+3. alert system based on dangers only inside the driving lane and the distance from the danger.
 
 
