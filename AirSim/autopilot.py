@@ -1,3 +1,5 @@
+#Autopilot Functions for AirSim.
+
 import setup_path 
 import airsim
 import time
@@ -12,7 +14,7 @@ def emergancy_brake(client,car_controls):
     time.sleep(2)   # let car drive a bit
     #client.enableApiControl(False)
     
-
+#measure the avg distance to the closeest obstacle from each lidar
 def avg_distance(point_cloud):
     point_3d = 0
     for i in range(0,len(point_cloud)-3,3):
@@ -27,6 +29,7 @@ def avg_distance(point_cloud):
     front_dist_3d = point_3d/(len(point_cloud)/3)
     return front_dist_3d
 
+#measure the distace to the farest point for the obstacle of each lidar
 def far_distance(point_cloud):
     point = 0
     most_far = 0
@@ -37,6 +40,7 @@ def far_distance(point_cloud):
     most_far = point/(len(point_cloud)/3)
     return most_far
 
+#measure the distace to the closeset point for the obstacle of each lidar
 def close_distance(point_cloud):
     point_3d = 0
     most_close = 99
@@ -48,6 +52,7 @@ def close_distance(point_cloud):
 
     return most_close
 
+#takes a pic from the cameras and save 
 def take_pic(client):
     global idx 
     
@@ -64,6 +69,7 @@ def take_pic(client):
             print("Image Captured : Type %d, size %d" % (response.image_type, len(response.image_data_uint8)))
             airsim.write_file(os.path.normpath(filename + '.png'), response.image_data_uint8)
 
+#log the car stats            
 def log_it(client):
     car_state = client.getCarState()
     speed = car_state.speed
