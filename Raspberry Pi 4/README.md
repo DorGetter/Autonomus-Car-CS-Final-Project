@@ -8,9 +8,13 @@ We decide to try using this ebedded device since the Android platform was too we
 <br />
 <br />
 # The Construction for testing the models on remote control car:
+<br />
+
 ![image](https://user-images.githubusercontent.com/57401083/120466645-96135d80-c39f-11eb-843f-d1d7b4673d63.png)
 <br />
 # Object Detection & Lane Ditection Testing:
+<br />
+
 ![WhatsApp Image 2021-07-27 at 16 44 25](https://user-images.githubusercontent.com/57047863/127165850-76245b4c-9af4-4e48-a631-1c15388d3c2a.jpeg)
 <br />
 ![WhatsApp Image 2021-07-27 at 16 44 30](https://user-images.githubusercontent.com/57047863/127165963-5c32ce41-91a8-4d28-90d3-426b9872af43.jpeg)
