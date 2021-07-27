@@ -1,3 +1,4 @@
+#main frame of the program
 import cv2 as cv
 from jetracer.nvidia_racecar import NvidiaRacecar
 import numpy as np
